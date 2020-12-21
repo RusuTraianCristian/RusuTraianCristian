@@ -12,8 +12,8 @@ Currently a part time software engineer @Convect, a software development agency 
 - [ ] this is an incomplete item
 
 # rusty
-```rust
-fn unwrap (gift: i32, crust: String) -> i32 {
+```go
+fn main (unwrap: String, crust: String) -> i32 {
     return;
 }
 ```
