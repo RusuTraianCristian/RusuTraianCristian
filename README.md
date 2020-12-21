@@ -12,7 +12,7 @@ Currently a part time software engineer @Convect, a software development agency 
 - [ ] this is an incomplete item
 
 # rusty
-```php
+```javascript
 fn main (unwrap: String, crust: String) -> i32 {
     return;
 }
