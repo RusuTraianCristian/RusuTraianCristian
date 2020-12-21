@@ -10,3 +10,9 @@ Currently a part time software engineer @Convect, a software development agency 
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+# hello, javascript <3
+
+    const func = () => {
+        console.log('hello there!');
+    }
