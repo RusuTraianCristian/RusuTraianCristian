@@ -11,8 +11,8 @@ Currently a part time software engineer @Convect, a software development agency 
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-# hello, javascript <3
+# rusty
 
-    const func = () => {
-        console.log('hello there!');
-    }
+fn unwrap (gift: i32, crust: String) -> i32 {
+    return;
+}
