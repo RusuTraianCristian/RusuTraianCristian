@@ -6,7 +6,7 @@
 
 Currently a part time software engineer @Convect, a software development agency founded by myself.
 
-# rusty
+# CRUST
 ```rust
 fn main (unwrap: String, crust: String) -> i32 {
     return;
