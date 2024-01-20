@@ -1,10 +1,10 @@
 # Hello, world!
 
 
-- 🌱 I’m currently learning Rust & GO and aspiring to write a high level framework in Rust
-- 👯 I’m looking to collaborate on interesting Rust projects
+- 🌱 TypeScript
+- 👯 Rust
 
-Currently a part time software engineer @Convect, a software development agency founded by myself.
+Experienced on the full-stack, focused on interfaces engineering.
 
 # crust
 ```rust
